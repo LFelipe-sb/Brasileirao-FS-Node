@@ -1,0 +1,82 @@
+[
+  {
+    "team": "São paulo",
+    "score": 78
+  },
+  {
+    "team": "Internacional",
+    "score": 69
+  },
+  {
+    "team": "Grêmio",
+    "score": 67
+  },
+  {
+    "team": "Santos",
+    "score": 64
+  },
+  {
+    "team": "Paraná",
+    "score": 60
+  },
+  {
+    "team": "Vasco",
+    "score": 59
+  },
+  {
+    "team": "Figueirense",
+    "score": 57
+  },
+  {
+    "team": "Goiás",
+    "score": 55
+  },
+  {
+    "team": "Corinthians",
+    "score": 53
+  },
+  {
+    "team": "Cruzeiro",
+    "score": 53
+  },
+  {
+    "team": "Flamengo",
+    "score": 52
+  },
+  {
+    "team": "Botafogo",
+    "score": 51
+  },
+  {
+    "team": "Atlético pr",
+    "score": 48
+  },
+  {
+    "team": "Juventude",
+    "score": 47
+  },
+  {
+    "team": "Fluminense",
+    "score": 45
+  },
+  {
+    "team": "Palmeiras",
+    "score": 44
+  },
+  {
+    "team": "Ponte preta",
+    "score": 39
+  },
+  {
+    "team": "Fortaleza",
+    "score": 38
+  },
+  {
+    "team": "São caetano",
+    "score": 36
+  },
+  {
+    "team": "Santa cruz",
+    "score": 28
+  }
+]
