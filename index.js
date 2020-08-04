@@ -28,8 +28,17 @@ async function getGames() {
             });
         });
     
+        //Classificação geral salva em um arquivo txt separado.
         team.sort((a,b) => b.score - a.score);
         fs.writeFile('Classificação Campeonato.txt', JSON.stringify(team, null, 2));
+
+        //Classificados para a Copa Libertadores.
+        const libertadores = team.slice(0,4);
+        
+        //Rebaixados para a Serie B.
+        const rebaixados = team.slice(16,20);
+
+        console.log(libertadores, rebaixados);
     } catch (err) {
         console.log(err);
     }
